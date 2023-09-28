@@ -1,7 +1,7 @@
 pipeline {
   agent any
   
-  environemnt {
+  environment {
      TF_VAR_VARAIBLE_NAME="value"
 	 }
 	 
